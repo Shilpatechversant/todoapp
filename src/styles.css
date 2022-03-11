@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aqua;
+
+}
+
+.Demo {
+  background-color: aqua;
+}
+.btn-success{
+  background-color: royalblue;
+  padding-left: 10px;
+  margin-left: 2px;
+}
